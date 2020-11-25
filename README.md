@@ -1,0 +1,3 @@
+# ObjectManager
+
+`/tinspect ObjectManagerAddon`

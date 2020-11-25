@@ -1,0 +1,12 @@
+## Interface: 10305
+## Author: Dudus
+## Version: 1
+## Title: [ObjectManager]
+
+LB.lua
+ObjectManagerAddon.lua
+Class.lua
+Classes.lua
+Classes\Object.lua
+Classes\ObjectManager.lua
+Main.lua
