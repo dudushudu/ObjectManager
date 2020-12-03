@@ -1,4 +1,3 @@
-ObjectManagerAddon.Frames = {}
 ObjectManagerAddon.Frames.Main = CreateFrame("FRAME", "ObjectManagerAddon", UIParent)
 ObjectManagerAddon.Frames.Main:SetScript("OnUpdate", function()
     local lb = lb

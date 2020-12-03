@@ -1,0 +1,1 @@
+ObjectManagerAddon.Frames = {}

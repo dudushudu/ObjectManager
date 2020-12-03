@@ -3,10 +3,14 @@
 ## Version: 1
 ## Title: [ObjectManager]
 
-LB.lua
 ObjectManagerAddon.lua
-Class.lua
-Classes.lua
+
+Helpers\LB.lua
+Helpers\Class.lua
+
+Classes\Classes.lua
 Classes\Object.lua
 Classes\ObjectManager.lua
-Main.lua
+
+Frames\Frames.lua
+Frames\Main.lua
